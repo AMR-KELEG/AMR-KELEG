@@ -16,72 +16,72 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-38.5%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.2%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 148 Contributions in year 2020
+> 🏆 188 Contributions in the Year 2020
  > 
-> 📦 Used 103.9 kB in GitHub's Storage 
+> 📦 104.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 35 Public Repositories
  > 
-> 🔑 9 Owned Private Repositories 
+> 🔑 11 Private Repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-🌃 Evening    146 commits    ████████████░░░░░░░░░░░░░   51.05% 
-🌙 Night      37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94%
+🌞 Morning    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+🌆 Daytime    85 commits     ███████░░░░░░░░░░░░░░░░░░   28.91% 
+🌃 Evening    147 commits    ████████████░░░░░░░░░░░░░   50.0% 
+🌙 Night      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
 
 ```
-📅 **I'm Most Productive on Thursdays** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Wednesday    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Thursday     75 commits     ██████░░░░░░░░░░░░░░░░░░░   26.22% 
-Friday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+Wednesday    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+Thursday     82 commits     ███████░░░░░░░░░░░░░░░░░░   27.89% 
+Friday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
+Sunday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
 
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Timezone: Africa/Cairo
+⌚︎ Time Zone: Africa/Cairo
 
-💬 Languages: 
-No Activity tracked this Week
+💬 Programming Languages: 
+No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
-💻 Operating Systems: 
-No Activity tracked this Week
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in C++** 
+**I Mostly Code in C++** 
 
 ```text
-C++                      12 repos            ████████░░░░░░░░░░░░░░░░░   32.43% 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+C++                      12 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
