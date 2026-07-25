@@ -20,33 +20,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.77%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-🌆 Daytime                1625 commits        █████████░░░░░░░░░░░░░░░░   34.72 % 
-🌃 Evening                1780 commits        ██████████░░░░░░░░░░░░░░░   38.03 % 
-🌙 Night                  724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   573 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Tuesday                  739 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Thursday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   554 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Saturday                 726 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Sunday                   788 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -60,5 +33,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:17:00 UTC
+ Last Updated on 25/07/2026 03:14:48 UTC
 <!--END_SECTION:waka-->
